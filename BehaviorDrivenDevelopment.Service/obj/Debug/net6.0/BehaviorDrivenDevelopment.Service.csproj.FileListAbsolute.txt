@@ -1,0 +1,12 @@
+C:\Users\AFG\Desktop\.Net\BehaviorDrivenDevelopment\BehaviorDrivenDevelopment.Service\bin\Debug\net6.0\BehaviorDrivenDevelopment.Service.deps.json
+C:\Users\AFG\Desktop\.Net\BehaviorDrivenDevelopment\BehaviorDrivenDevelopment.Service\bin\Debug\net6.0\BehaviorDrivenDevelopment.Service.dll
+C:\Users\AFG\Desktop\.Net\BehaviorDrivenDevelopment\BehaviorDrivenDevelopment.Service\bin\Debug\net6.0\BehaviorDrivenDevelopment.Service.pdb
+C:\Users\AFG\Desktop\.Net\BehaviorDrivenDevelopment\BehaviorDrivenDevelopment.Service\obj\Debug\net6.0\BehaviorDrivenDevelopment.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AFG\Desktop\.Net\BehaviorDrivenDevelopment\BehaviorDrivenDevelopment.Service\obj\Debug\net6.0\BehaviorDrivenDevelopment.Service.AssemblyInfoInputs.cache
+C:\Users\AFG\Desktop\.Net\BehaviorDrivenDevelopment\BehaviorDrivenDevelopment.Service\obj\Debug\net6.0\BehaviorDrivenDevelopment.Service.AssemblyInfo.cs
+C:\Users\AFG\Desktop\.Net\BehaviorDrivenDevelopment\BehaviorDrivenDevelopment.Service\obj\Debug\net6.0\BehaviorDrivenDevelopment.Service.csproj.CoreCompileInputs.cache
+C:\Users\AFG\Desktop\.Net\BehaviorDrivenDevelopment\BehaviorDrivenDevelopment.Service\obj\Debug\net6.0\BehaviorDrivenDevelopment.Service.dll
+C:\Users\AFG\Desktop\.Net\BehaviorDrivenDevelopment\BehaviorDrivenDevelopment.Service\obj\Debug\net6.0\refint\BehaviorDrivenDevelopment.Service.dll
+C:\Users\AFG\Desktop\.Net\BehaviorDrivenDevelopment\BehaviorDrivenDevelopment.Service\obj\Debug\net6.0\BehaviorDrivenDevelopment.Service.pdb
+C:\Users\AFG\Desktop\.Net\BehaviorDrivenDevelopment\BehaviorDrivenDevelopment.Service\obj\Debug\net6.0\ref\BehaviorDrivenDevelopment.Service.dll
+C:\Users\AFG\Desktop\.Net\BehaviorDrivenDevelopment\BehaviorDrivenDevelopment.Service\obj\Debug\net6.0\BehaviorDrivenDevelopment.Service.sourcelink.json
